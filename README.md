@@ -4,7 +4,7 @@
 ## Getting Started
  To get started, make sure you have the following installed:
  - Java 21 or later. If not, download it from [Oracle](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
- - Gradle
+ - [Gradle](https://gradle.org/releases/)
 
  This web framework uses an in-memory array as a database.
 
