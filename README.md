@@ -34,6 +34,7 @@
  | data | Response data
 
 ## Endpoints
+ Using [Postman](https://www.postman.com/downloads/), you can test these endpoints
 
  ### Create a Note
 
